@@ -1,7 +1,9 @@
 🤖 Gemini Multimodal Content Generator
+
 A Streamlit web application that leverages the Google Gemini API to generate various forms of content, including natural language text, optimized prompts for AI image generators, and text-to-speech audio. This tool simplifies the content creation process by harnessing advanced generative AI capabilities.
 
 ✨ Features
+
 Text Generation: Generate creative and informative text based on user prompts using different Gemini models (Flash, Pro).
 
 Image Prompt Optimization: Transform simple ideas into detailed, high-quality prompts optimized for popular AI image generators (e.g., DALL-E, Midjourney, Stable Diffusion).
