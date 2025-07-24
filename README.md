@@ -17,6 +17,7 @@ Interactive UI: User-friendly and responsive interface built with Streamlit.
 API Key Management: Securely handles API keys using environment variables.
 
 🚀 Technologies Used
+
 Python
 
 Streamlit: For building the interactive web application.
@@ -30,6 +31,7 @@ tempfile & os: For managing temporary audio files.
 python-dotenv: For loading environment variables securely.
 
 📸 Screenshots
+
 (Note: Replace these placeholders with actual screenshots of your running application. If you place them in a screenshots folder, update the paths like screenshots/your_screenshot_name.png)
 
 Main Interface:
